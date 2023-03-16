@@ -118,7 +118,7 @@ input::placeholder {
 .text {
   background-color: transparent;
   padding: 1rem;
-  max-width: 80%;
+  /* max-width: 80%; */
 }
 
 .actions .btn {
